@@ -1,2 +1,3 @@
 # apnaclg
-repository
+this is description 
+author krish ambwani
